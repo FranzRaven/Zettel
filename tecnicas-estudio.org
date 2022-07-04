@@ -8,7 +8,9 @@ source:
      Hojear capítulos
      Mirar títulos y subtítulos
      
- # hábitos
+* Hábitos
+ * Descanso 
+ * Pomodoro
      Pomodoro
      Descanso
      
