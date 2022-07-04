@@ -5,14 +5,13 @@ author: yo
 source: 
 ---
 * Libros
-     Hojear capítulos
-     Mirar títulos y subtítulos
+ * Hojear capítulos
+ * Mirar títulos y subtítulos
      
 * Hábitos
  * Descanso 
  * Pomodoro
-     Pomodoro
-     Descanso
+     
      
  
      
