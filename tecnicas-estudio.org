@@ -12,10 +12,13 @@ source:
  * Descanso 
  * Pomodoro
      
- * Modos del pensamiento
+* Modos del pensamiento
   * Concentrado
-  * 
+   * esfuerzo 
+   * Ideas concentradas, compactas, individuales
   * Difuso
+   * relax
+   * ideas globales
      
  
      
