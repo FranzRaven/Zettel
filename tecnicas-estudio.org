@@ -13,10 +13,10 @@ source:
  * Pomodoro
      
 * Modos del pensamiento
-   * Concentrado
-    ** esfuerzo 
-    ** Ideas concentradas, compactas, individuales
-   * Difuso
+   * **<u>Concentrado</u>**
+    * esfuerzo 
+    * Ideas concentradas, compactas, individuales
+   * **<u>Difuso</u>**
     * relax
     * ideas globales
      
