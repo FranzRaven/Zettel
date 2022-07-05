@@ -4,7 +4,7 @@ tags: study
 author: yo
 source: 
 ---
-* <u>Libros</u>
+* Libros
  * Hojear capítulos
  * Mirar títulos y subtítulos
      
