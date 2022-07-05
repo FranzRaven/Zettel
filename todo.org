@@ -1,0 +1,12 @@
+---
+title: todo
+tags: 
+author: 
+source: 
+note_type: task
+---
+- [ ] estudiar
+- [ ] Tai Chi
+- [ ] lectura
+- [ ] trabajo
+- [ ] música
