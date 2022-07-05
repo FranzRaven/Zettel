@@ -14,8 +14,8 @@ source:
      
 * Modos del pensamiento
    * Concentrado
-    * esfuerzo 
-    * Ideas concentradas, compactas, individuales
+    ** esfuerzo 
+    ** Ideas concentradas, compactas, individuales
    * Difuso
     * relax
     * ideas globales
