@@ -12,6 +12,10 @@ source:
  * Descanso 
  * Pomodoro
      
+ * Modos del pensamiento
+  * Concentrado
+  * 
+  * Difuso
      
  
      
