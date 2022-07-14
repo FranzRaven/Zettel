@@ -1,0 +1,7 @@
+---
+title: coordenadas 
+tags: 
+author: 
+source: 
+---
+-41,1379602, -71,2781335
